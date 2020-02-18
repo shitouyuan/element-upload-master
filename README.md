@@ -6,7 +6,12 @@
 
 
 本项目的图像文件来自于网图链接。
+DEMO样式图如下：
+![Image text](https://raw.githubusercontent.com/shitouyuan/element-upload-master/master/src/assets/img/zhengti.png)
 
+![Image text](https://raw.githubusercontent.com/shitouyuan/element-upload-master/master/src/assets/img/eye.png)
+
+![Image text](https://raw.githubusercontent.com/shitouyuan/element-upload-master/master/src/assets/img/view.png)
 # 运行
 ```
 进入到项目目录执行如下：
