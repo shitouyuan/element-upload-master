@@ -63,6 +63,7 @@ export default {
 ## 1.4 交流相关
 有交流可以关注作者个人公众号哦！期待与大家共同进步！
 
+![Image text](https://raw.githubusercontent.com/shitouyuan/element-upload-master/master/src/assets/img/wx.jpg)
 ## 参考文档
 - [ElementUI 上传组件使用说明](https://element.eleme.cn/#/zh-CN/component/upload)
 - [Vue.js文档](https://cn.vuejs.org/)
